@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This json file contains a detailed list of all countries and their information. It's an extension of [restcountries.com]('https://restcountries.com') but it comes with the `phoneCode` property.
+This json file contains a detailed list of all countries and their information. It's an extension of [restcountries.com]('https://restcountries.com') but it comes with the `phoneCode` property; which is a combination of the idd properties.
 
 ## Interface
 
